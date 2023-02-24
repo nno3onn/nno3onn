@@ -1,4 +1,5 @@
-### Hi there 👋
+
+<a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/gmail-20c997?style=flat-square&logo=Gmail&logoColor=#EA4335"/></a>
 
 <!--
 **nno3onn/nno3onn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
