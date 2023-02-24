@@ -4,7 +4,8 @@
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnno3onn&count_bg=%237DD7E6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/nno3onn)
 
-[![nno3onn's GitHub stats](https://github-readme-stats.vercel.app/api?username=nno3onn)](https://github.com/anuraghazra/github-readme-stats)
+[![nno3onn's GitHub stats](https://github-readme-stats.vercel.app/api?username=nno3onn)](https://github.com/nno3onn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nno3onn&layout=compact)](https://github.com/nno3onn)
 
 
 <br>
