@@ -27,7 +27,11 @@
 
 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> <a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Zustand-FFCA28?style=flat-square&logo=Zustand&logoColor=white"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Recoil-232F3E?style=flat-square&logo=Recoil&logoColor=white"/></a>
+  <a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/></a>
   <a href="" target="_blank">
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white"/></a>
