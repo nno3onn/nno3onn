@@ -1,21 +1,16 @@
 <div align="center">
 
   # hello, I'm daeun
-
-  [![nno3onn's GitHub stats](https://github-readme-stats.vercel.app/api?username=nno3onn)](https://github.com/nno3onn)
-  
-
   
   <br>
-  <br>
 
-  ## 🐰 contact 🐰
+  ### 🐰 contact 🐰
   
   <a href="" target="_blank"><img src="https://img.shields.io/badge/nnmo3omnn@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> 
 
   <br>
 
-  ## 🛠️ stacks 🛠️
+  ### 🛠️ stacks 🛠️
 
   ![Badge](https://img.shields.io/badge/HTML-E34F26.svg?&logo=HTML&logoColor=white)
   ![Badge](https://img.shields.io/badge/CSS-1572B6.svg?&logo=CSS3&logoColor=white)
